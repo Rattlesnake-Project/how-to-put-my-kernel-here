@@ -13,7 +13,7 @@
 
 * Change your `CONFIG_LOCALVERSIO` from defconfig file (-x.x is version kernel, initial use 0.1)
   ```bash
-  CONFIG_LOCALVERSION="•Rattlesnake-x.x"
+  CONFIG_LOCALVERSION="-Rattlesnake-x.x"
   ```
 
 ## What is the purpose of this team?
